@@ -1,0 +1,34 @@
+{
+  "name": "smartpill-data-logger",
+  "version": "1.0",
+  "title": "Smartpill Data Logger",
+  "description": "A basic template for a simple Evothings app.",
+  "tags": [
+    {
+      "label": "Smartpill Data Logger.",
+      "type": "Demonstration app for smartpill project."
+    },
+    {
+      "label": "nordic",
+      "type": "vendor"
+    },
+    {
+      "label": "nRF51822",
+      "type": "platform"
+    },
+    {
+      "label": "ble",
+      "type": "comm"
+    }
+  ],
+  "libraries": [
+    {
+      "name": "jquery",
+      "version": "2.1.1"
+    }
+  ],
+  "index-file": "index.html",
+  "uuid": "fbf41fa7-96cd-4723-b652-bb909b209417",
+  "icon": "app-icon.png",
+  "doc-url": "https://evothings.com/2.1/doc/examples/template-basic-app.html"
+}
